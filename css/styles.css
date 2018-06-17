@@ -119,7 +119,7 @@ img:not([src]) {
 */	
 
 @media (max-width: 768px) {
-body.home article {
+article {
 	width: 100%;
 	-moz-column-width: 100%;
 	-webkit-column-width: 100%;

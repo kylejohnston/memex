@@ -5,8 +5,6 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>design /// memex</title>
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/styles.css">
   <?php include('includes/head.php'); ?>
 </head>
 <body>
@@ -16,7 +14,7 @@
   </header>
   <div class="content">
     <h1><span>design</span></h1>
-    <article>
+    <article class="col-5">
       <?php
         $www_root = 'http://memex.local/img/design/design';
         $dir = 'img/design/design';

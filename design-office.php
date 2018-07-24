@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; office</span></h1>
     <article class="col-3">
       <?php
-        $www_root = 'http://memex.local/img/design/office';
+        $www_root = '//memex.local/img/design/office';
         $dir = 'img/design/office';
         include('includes/renderer.php');
       ?>

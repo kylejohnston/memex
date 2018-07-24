@@ -16,8 +16,8 @@
     <h1><span>website design</span></h1>
     <article class="col-5">
       <?php
-        $www_root = 'http://memex.local/img/websites';
-        $dir = 'img/websites';
+        $www_root = '//memex.local/img/websites/websites';
+        $dir = 'img/websites/websites';
         include('includes/renderer.php');
       ?>
     </article>

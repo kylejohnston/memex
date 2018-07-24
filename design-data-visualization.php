@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; data visualization</span></h1>
     <article>
       <?php
-        $www_root = 'http://memex.local/img/design/data-visualization';
+        $www_root = '//memex.local/img/design/data-visualization';
         $dir = 'img/design/data-visualization';
         include('includes/renderer.php');
       ?>

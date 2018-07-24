@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; logos</span></h1>
     <article>
       <?php
-        $www_root = 'http://memex.local/img/design/logos';
+        $www_root = '//memex.local/img/design/logos';
         $dir = 'img/design/logos';
         include('includes/renderer.php');
       ?>

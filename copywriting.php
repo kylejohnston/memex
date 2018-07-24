@@ -16,7 +16,7 @@
     <h1><span>copywriting</span></h1>
     <article class="col-3">
       <?php
-        $www_root = 'http://memex.local/img/copywriting';
+        $www_root = '//memex.local/img/copywriting';
         $dir = 'img/copywriting';
         include('includes/renderer.php');
       ?>

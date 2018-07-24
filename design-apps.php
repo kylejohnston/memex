@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; apps</span></h1>
     <article>
       <?php
-        $www_root = 'http://memex.local/img/design/apps';
+        $www_root = '//memex.local/img/design/apps';
         $dir = 'img/design/apps';
         include('includes/renderer.php');
       ?>

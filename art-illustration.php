@@ -18,7 +18,7 @@
 
     <article class="col-3">
       <?php
-        $www_root = 'http://memex.local/img/art-illustration';
+        $www_root = '//memex.local/img/art-illustration';
         $dir = 'img/art-illustration';
         include('includes/renderer.php');
       ?>

@@ -16,7 +16,7 @@
     <h1><span>website design &horbar;&horbar; portfolio</span></h1>
     <article class="col-5">
       <?php
-        $www_root = 'http://memex.local/img/websites/portfolio';
+        $www_root = '//memex.local/img/websites/portfolio';
         $dir = 'img/websites/portfolio';
         include('includes/renderer.php');
       ?>

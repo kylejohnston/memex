@@ -19,7 +19,7 @@
 
     <article class="col-3">
       <?php
-        $www_root = 'http://memex.local/img/color';
+        $www_root = '//memex.local/img/color';
         $dir = 'img/color';
         include('includes/renderer.php');
       ?>

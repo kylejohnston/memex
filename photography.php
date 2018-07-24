@@ -16,7 +16,7 @@
     <h1><span>photography</span></h1>
     <article>
       <?php
-        $www_root = 'http://memex.local/img/photography';
+        $www_root = '//memex.local/img/photography';
         $dir = 'img/photography';
         include('includes/renderer.php');
       ?>

@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; business cards</span></h1>
     <article>
       <?php
-        $www_root = 'http://memex.local/img/design/business-cards';
+        $www_root = '//memex.local/img/design/business-cards';
         $dir = 'img/design/business-cards';
         include('includes/renderer.php');
       ?>

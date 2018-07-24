@@ -16,7 +16,7 @@
     <h1><span>website design &horbar;&horbar; ecommerce</span></h1>
     <article class="col-5">
       <?php
-        $www_root = 'http://memex.local/img/websites/ecommerce';
+        $www_root = '//memex.local/img/websites/ecommerce';
         $dir = 'img/websites/ecommerce';
         include('includes/renderer.php');
       ?>

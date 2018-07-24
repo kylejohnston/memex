@@ -1,5 +1,5 @@
 # memex
-A simple PHP appliction that reads all images from a directory displays them on a page. Images are displayed in a masonry layout using CSS grid (h/t [Adam Blum](https://codepen.io/AdamBlum/pen/fwrnE)). Features a pure CSS lightbox (h/t [Gregory Schier](https://codepen.io/gschier/pen/HCoqh)) and lazy loading with [beLazy.js](http://dinbror.dk/blazy/).
+A simple PHP application that reads all images from a directory displays them on a page. Images are displayed in a simple grid layout using CSS grid. Features a [https://codepen.io/gschier/pen/HCoqh](pure CSS lightbox) and lazy loading with [https://github.com/aFarkas/lazysizes](lazysize.js).
 
 I'm using this as my personal [morgue file](https://en.wikipedia.org/wiki/Morgue_file) or flat file – kind of a self-hosted Pinterest that I use for design inspiration.
 

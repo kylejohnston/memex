@@ -15,8 +15,6 @@
   <div class="content">
     <!-- 001 -->
     <h1><span>color</span></h1>
-    <!-- <article><div class="item"><img src="img/1-IMG.jpg"></div></article> -->
-
     <article class="col-3">
       <?php
         $www_root = '//memex.local/img/color';

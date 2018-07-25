@@ -15,7 +15,7 @@ a:active{background:#fa8335;color:#fffcfa}
 h1 a:hover,
 h1 a:active{background:0 0}
 p {font-size:1.2rem;line-height:1.6;margin:8px 0 16px 0}
-code{background:#fff5ef;display:block;font-size:.975rem;line-height:1.6;margin:8px 0 16px;padding:8px 0}
+code{background:#fff5ef;display:block;font-size:.975rem;line-height:1.6;margin:8px 0 16px;word-break:break-all}
 code.inline{display:inline-block}
 p.small{font-size:1em}
 .bold{font-weight:bold}
@@ -61,7 +61,7 @@ img:not([src]){visibility:hidden}
 /** lightbox markup **/
 .thumbnail{max-width:40%}
 .lightbox{display:none;background:#140800;height:100%;left:0;position:fixed;text-align:center;top:0;width:100%;z-index:999}
-.lightbox img{margin-top:16px;margin-bottom:16px;max-height:98%;max-height:calc(100% - 32px);max-width:95%;display:grid}
+.lightbox img{display:grid;margin-top:16px;margin-bottom:16px;max-height:98%;max-height:calc(100% - 32px);max-width:95%}
 .lightbox:target{background:#140800;outline:0;display:grid;align-items:center;justify-items:center}
 /* 4. FOOTER */
 footer{border-top:4px solid #fa8335;display:grid;grid-template-columns:1fr;margin-top:32px;padding:8px 0 16px}
@@ -73,12 +73,14 @@ footer .info{text-align:center}
 /* 5. BREAKPOINTS (544 SM, 768 MD, 1012 LG, 1280 XL) */
 @media (min-width: 544px) {
 	.intro{border-left:4px solid #fa8335;border-top:none;padding:0 0 0 24px}
+	.column{grid-column:span 1}
+
 	@supports (display: grid) {}
 }
 @media (min-width: 768px) {
 	@supports (display: grid) {}
 }
-@media (max-width: 1011Apx) {
+@media (max-width: 1011px) {
 	@supports (display: grid) {}
 }
 /* DESKTOP VIEW */

@@ -20,7 +20,7 @@
 
   <article class="col-2">
     <div class="column content">
-      <h2>MEMEX is a simple PHP application that reads all images from a directory and displays them on a page.</h2>
+      <h2>MEMEX is a simple PHP-based tool that finds all the images in a directory and displays them on a page.</h2>
       <p>The goal of this project was to use a minimal amount of code to create a modern, robust gallery of visual inspiration.</p>
       <h2>How it works</h2>
       <p>On each page, a variable in a snippet of PHP defines the path to an image directory:

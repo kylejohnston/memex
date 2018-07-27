@@ -4,12 +4,8 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-
-
   <title>colophon /// memex</title>
   <?php include('includes/head.php'); ?>
-  <style>.yolo{background:yellow}</style>
 </head>
 <body>
   <!-- CONTENT GOES HERE -->
@@ -60,7 +56,8 @@
         	<a href="https://birme.net/blog/bulk-resize-images-with-sips-on-mac/">sips</a> - super-fast bulk image resizing<br>
         	<a href="https://www.panic.com/transmit/">Transmit</a> - FTP client<br>
 	        <a href="http://sublimetext.com">Sublime Text</a> - coding<br>
-	    </p>
+  	    </p>
+      </div>
     </div>
   </article>
 

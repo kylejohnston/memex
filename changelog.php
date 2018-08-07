@@ -16,7 +16,9 @@
 
   <article class="col-2">
     <div class="column content">
-      <p>2018-JUL-25 : Launch</p>
+
+      <p><strong>2018-AUG-07</strong> : Added images : <a href="art-illustration.php">art &times; illustration,</a> <a href="color.php">color,</a> <a href="copywriting.php">copywriting,</a> <a href="design.php">design,</a> <a href="design-business-cards.php">design &horbar; business cards,</a> <a href="design-political.php">design &horbar; political,</a> <a href="design-typography.php">design &horbar; typography,</a> <a href="photography.php">photography,</a> <a href="websites.php">websites</a> <a href="websites-agency.php">websites &horbar; agency</a></p>
+      <p><strong>2018-JUL-25</strong> : Launch</p>
     </div>
     <div class="column shim"></div>
   </article>

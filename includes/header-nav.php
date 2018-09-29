@@ -18,6 +18,7 @@
         - <a href="design-typography.php">typography</a>
         / <a class="bold" href="ephemera.php">ephemera</a>
         / <a class="bold" href="photography.php">photography</a>
+        / <a class="bold" href="strategy.php">strategy</a>
         / <a class="bold" href="quotes.php">quotes</a>
         / <a class="bold" href="websites.php">website design</a> &horbar;&horbar;
           <a href="websites-agency.php">agency</a>

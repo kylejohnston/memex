@@ -17,6 +17,16 @@
   <article class="col-2">
     <div class="column content">
 
+      <p><strong>2018-SEP-29</strong> : Added images : 
+        <a href="art-illustration.php">art &times; illustration,</a> 
+        <a href="design.php">design,</a> 
+        <a href="design-business-cards.php">design &horbar; business cards,</a> 
+        <a href="design-political.php">design &horbar; political,</a> 
+        <a href="design-process.php">design &horbar; process,</a> 
+        <a href="design-office.php">design &horbar; office,</a> 
+        <a href="websites-portfolio.php">websites &horbar; portfolio,</a>
+        <a href="websites-product.php">websites &horbar; product</a>
+      </p>
       <p><strong>2018-SEP-16</strong> : Added images : 
         <a href="art-illustration.php">art &times; illustration,</a> 
         <a href="color.php">color,</a> 

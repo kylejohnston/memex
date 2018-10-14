@@ -17,6 +17,14 @@
   <article class="col-2">
     <div class="column content">
 
+      <p><strong>2018-OCT-14</strong> : Added images : 
+        <!-- <a href="art-illustration.php">art &times; illustration,</a>  -->
+        <a href="design.php">design,</a> 
+        <a href="design-apps.php">design &horbar; apps,</a> 
+        <a href="design-logos.php">design &horbar; logos,</a> 
+        <a href="design-typography.php">design &horbar; typography,</a> 
+        <a href="websites-product.php">websites &horbar; product</a>
+      </p>
       <p><strong>2018-SEP-29</strong> : Added images : 
         <a href="art-illustration.php">art &times; illustration,</a> 
         <a href="design.php">design,</a> 

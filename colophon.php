@@ -27,7 +27,7 @@
         include('includes/renderer.php');
       </code>
       <p><strong>renderer.php</strong> looks for any images in that directory, including JPGs, PNGs, and GIFs. For each image found, it renders in a DIV with a link to view the full-size image in a <a href="https://codepen.io/gschier/pen/HCoqh">pure CSS lightbox</a>.</p>
-      <p>The images are displayed in a simple grid (using CSS Grid) and <a href="https://github.com/aFarkas/lazysizes">lazysize.js</a> is used to lazy load the images.</p>
+      <p>The images are displayed in a simple grid (using CSS Grid) and <a href="https://github.com/aFarkas/lazysizes">lazysizes.js</a> is used to lazy load the images.</p>
       <p>To help with performance, I create a small version of each image (≤ 600px W), which is displayed on the page. The full-size image is loaded only when it's clicked or tapped.</p>
       <p>A bare bones, starter kit version on this application is available on GitHub: <a href="https://github.com/kylejohnston/memex-core">memex core</a>.</p>
     </div>

@@ -16,6 +16,7 @@
 
   <article class="col-2">
     <div class="column content">
+      <p><strong>2018-DEC-18</strong> : Images are now displayed in random order. Updated homepage.</p>
 
       <p><strong>2018-DEC-15</strong> : Added images : 
         <a href="art-illustration.php">art &times; illustration,</a> 

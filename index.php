@@ -29,30 +29,31 @@
         <p><a class="bold" href="color.php">color</a></p>
         <p><a class="bold" href="copywriting.php">copywriting</a></p>
         <p><a class="bold" href="design.php">design</a> &horbar;&horbar;<br>
-          <a href="design-apps.php">apps</a>
-          - <a href="design-branding.php">branding</a>
-          - <a href="design-business-cards.php">business cards</a>
-          - <a href="design-data-visualization.php"><nobr>data visualization</nobr></a>
-          - <a href="design-goods.php">goods</a>
-          - <a href="design-logos.php">logos</a>
-          - <a href="design-office.php">office</a>
-          - <a href="design-patterns.php">patterns</a>
-          - <a href="design-political.php">political</a>
-          - <a href="design-process.php">process</a>
-          - <a href="design-typography.php">typography</a>
+          <a href="design-apps.php">apps</a>,
+          <a href="design-branding.php">branding</a>,
+          <a href="design-business-cards.php">business cards</a>,
+          <a href="design-data-visualization.php"><nobr>data visualization</nobr></a>,
+          <a href="design-goods.php">goods</a>,
+          <a href="design-logos.php">logos</a>,
+          <a href="design-office.php">office</a>,
+          <a href="design-patterns.php">patterns</a>,
+          <a href="design-political.php">political</a>,
+          <a href="design-process.php">process</a>,
+          <a href="design-typography.php">typography</a>
         </p>
         <p><a class="bold" href="ephemera.php">ephemera</a></p>
         <p><a class="bold" href="photography.php">photography</a></p>
         <p><a class="bold" href="strategy.php">strategy</a></p>
         <p><a class="bold" href="quotes.php">quotes</a></p>
         <p><a class="bold" href="websites.php">website design</a> &horbar;&horbar;<br>
-          <a href="websites-agency.php">agency</a>
-          - <a href="websites-ecommerce.php">ecommerce</a>
-          - <a href="websites-elements.php">elements</a>
-          - <a href="websites-portfolio.php">portfolio</a>
-          - <a href="websites-product.php">product</a>
+          <a href="websites-agency.php">agency</a>,
+          <a href="websites-ecommerce.php">ecommerce</a>,
+          <a href="websites-elements.php">elements</a>,
+          <a href="websites-portfolio.php">portfolio</a>,
+          <a href="websites-product.php">product</a>
         </p>
       </div>
+        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2019-FEB-21</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

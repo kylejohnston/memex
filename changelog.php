@@ -16,6 +16,20 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2019-MAR-13</strong> : Added images : 
+        <a href="copywriting.php">copywriting,</a> 
+        <a href="design.php">design,</a> 
+        <a href="design-apps.php">design &horbar; apps,</a> 
+        <a href="design-branding.php">design &horbar; branding,</a> 
+        <a href="design-goods.php">design &horbar; goods,</a> 
+        <a href="design-patterns.php">design &horbar; patterns,</a> 
+        <a href="photography.php">photography,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-agency.php">websites &horbar; agency</a>
+        <a href="websites-elements.php">websites &horbar; elements</a>
+        <a href="websites-portfolio.php">websites &horbar; portfolio</a>
+      </p>
+
       <p><strong>2019-FEB-21</strong> : Added images : 
         <a href="art-illustration.php">art &times; illustration,</a> 
         <a href="copywriting.php">copywriting,</a> 

@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; political</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/design/political';
+        $www_root = 'img/design/political';
         $dir = 'img/design/political';
         include('includes/renderer.php');
       ?>

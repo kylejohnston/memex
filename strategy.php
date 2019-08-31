@@ -16,7 +16,7 @@
     <h1><span>strategy</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/strategy';
+        $www_root = 'img/strategy';
         $dir = 'img/strategy';
         include('includes/renderer.php');
       ?>

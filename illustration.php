@@ -16,7 +16,7 @@
     <h1><span>illustration</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/illustration';
+        $www_root = 'img/illustration';
         $dir = 'img/illustration';
         include('includes/renderer.php');
       ?>

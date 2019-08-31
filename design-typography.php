@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; typography</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/design/typography';
+        $www_root = 'img/design/typography';
         $dir = 'img/design/typography';
         include('includes/renderer.php');
       ?>

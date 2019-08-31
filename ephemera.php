@@ -16,7 +16,7 @@
     <h1><span>ephemera</span></h1>
     <article class="col-5">
       <?php
-        $www_root = 'http://memex.local/img/ephemera';
+        $www_root = 'img/ephemera';
         $dir = 'img/ephemera';
         include('includes/renderer.php');
       ?>

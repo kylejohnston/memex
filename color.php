@@ -17,7 +17,8 @@
     <h1><span>color</span></h1>
     <article class="col-3">
       <?php
-        $www_root = '//memex.local/img/color';
+        $www_root = 'img/color';
+        // $www_full = 'img/color/_fullsize';
         $dir = 'img/color';
         include('includes/renderer.php');
       ?>

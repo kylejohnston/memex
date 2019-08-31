@@ -16,7 +16,7 @@
     <h1><span>website design &horbar;&horbar; agency</span></h1>
     <article class="col-5">
       <?php
-        $www_root = '//memex.local/img/websites/agency';
+        $www_root = 'img/websites/agency';
         $dir = 'img/websites/agency';
         include('includes/renderer.php');
       ?>

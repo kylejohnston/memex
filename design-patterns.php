@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; patterns</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/design/patterns';
+        $www_root = 'img/design/patterns';
         $dir = 'img/design/patterns';
         include('includes/renderer.php');
       ?>

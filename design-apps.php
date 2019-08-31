@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ƒ<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -16,7 +16,7 @@
     <h1><span>design &horbar;&horbar; apps</span></h1>
     <article>
       <?php
-        $www_root = '//memex.local/img/design/apps';
+        $www_root = 'img/design/apps';
         $dir = 'img/design/apps';
         include('includes/renderer.php');
       ?>

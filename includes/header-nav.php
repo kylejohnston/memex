@@ -11,10 +11,10 @@
           <a href="design-data-visualization.php"><nobr>data visualization</nobr></a>,
           <a href="design-goods.php">goods</a>,
           <a href="design-logos.php">logos</a>,
-          <a href="design-office.php">office</a>,
           <a href="design-patterns.php">patterns</a>,
           <a href="design-political.php">political</a>,
           <a href="design-process.php">process</a>,
+          <a href="design-space.php">space</a>,
           <a href="design-typography.php">typography</a>
         / <a class="bold" href="ephemera.php">ephemera</a>
         / <a class="bold" href="photography.php">photography</a>

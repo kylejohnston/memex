@@ -16,13 +16,56 @@
 
   <article class="col-2">
     <div class="column content">
-    <p><strong>2019-MAR-13</strong> : Added images : 
-        <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-apps.php">design &horbar; apps,</a> 
-        <a href="design-branding.php">design &horbar; branding,</a> 
-        <a href="design-goods.php">design &horbar; goods,</a> 
-        <a href="design-patterns.php">design &horbar; patterns,</a> 
+    <p><strong>2019-AUG-31</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="photography.php">photography,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-product.php">websites &horbar; product</a>
+        <br>Renamed 'design &horbar;&horbar; office' to 'design &horbar;&horbar; space'.
+      </p>
+    <p><strong>2019-JUN-22</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-political.php">design &horbar; political,</a>
+        <a href="design-process.php">design &horbar; process,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-elements.php">websites &horbar; elements,</a>
+        <a href="websites-portfolio.php">websites &horbar; portfolio,</a>
+        <a href="websites-product.php">websites &horbar; product</a>
+      </p>
+
+      <p><strong>2019-APR-5</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-agency.php">websites &horbar; agency</a>
+        <a href="websites-portfolio.php">websites &horbar; product</a>
+      </p>
+
+      <p><strong>2019-MAR-13</strong> : Added images :
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-apps.php">design &horbar; apps,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
         <a href="photography.php">photography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
@@ -30,15 +73,15 @@
         <a href="websites-portfolio.php">websites &horbar; portfolio</a>
       </p>
 
-      <p><strong>2019-FEB-21</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-branding.php">design &horbar; branding,</a> 
-        <a href="design-logos.php">design &horbar; logos,</a> 
-        <a href="design-office.php">design &horbar; office,</a> 
-        <a href="design-political.php">design &horbar; political,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2019-FEB-21</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-political.php">design &horbar; political,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="photography.php">photography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
@@ -47,19 +90,19 @@
         <a href="websites-product.php">websites &horbar; product</a>
       </p>
 
-      <p><strong>2019-JAN-11</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="color.php">color,</a> 
-        <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-branding.php">design &horbar; branding,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-data-visualization.php">design &horbar; data visualization,</a> 
-        <a href="design-logos.php">design &horbar; logos,</a> 
-        <a href="design-goods.php">design &horbar; goods,</a> 
-        <a href="design-office.php">design &horbar; office,</a> 
-        <a href="design-patterns.php">design &horbar; patterns,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2019-JAN-11</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-data-visualization.php">design &horbar; data visualization,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="photography.php">photography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
@@ -69,104 +112,104 @@
 
       <p><strong>2018-DEC-18</strong> : Images are now displayed in random order. Updated homepage.</p>
 
-      <p><strong>2018-DEC-15</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-branding.php">design &horbar; branding,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-data-visualization.php">design &horbar; data visualization,</a> 
-        <a href="design-goods.php">design &horbar; goods,</a> 
-        <a href="design-office.php">design &horbar; office,</a> 
-        <a href="design-patterns.php">design &horbar; patterns,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-DEC-15</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-data-visualization.php">design &horbar; data visualization,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="photography.php">photography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
         <a href="websites-elements.php">websites &horbar; elements</a>
       </p>
-      <p><strong>2018-NOV-22</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-data-visualization.php">design &horbar; data visualization,</a> 
-        <a href="design-goods.php">design &horbar; goods,</a> 
-        <a href="design-patterns.php">design &horbar; patterns,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-NOV-22</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-data-visualization.php">design &horbar; data visualization,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-elements.php">websites &horbar; elements</a>
       </p>
-      <p><strong>2018-NOV-03</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-branding.php">design &horbar; branding,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-NOV-03</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency,</a>
         <a href="websites-product.php">websites &horbar; product</a>
       </p>
-      <p><strong>2018-OCT-14</strong> : Added images : 
-        <a href="design.php">design,</a> 
-        <a href="design-apps.php">design &horbar; apps,</a> 
-        <a href="design-logos.php">design &horbar; logos,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-OCT-14</strong> : Added images :
+        <a href="design.php">design,</a>
+        <a href="design-apps.php">design &horbar; apps,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="websites-product.php">websites &horbar; product</a>
       </p>
-      <p><strong>2018-SEP-29</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-political.php">design &horbar; political,</a> 
-        <a href="design-process.php">design &horbar; process,</a> 
-        <a href="design-office.php">design &horbar; office,</a> 
+      <p><strong>2018-SEP-29</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">design,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-political.php">design &horbar; political,</a>
+        <a href="design-process.php">design &horbar; process,</a>
+        <a href="design-space.php">design &horbar; space,</a>
         <a href="websites-portfolio.php">websites &horbar; portfolio,</a>
         <a href="websites-product.php">websites &horbar; product</a>
       </p>
-      <p><strong>2018-SEP-16</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="color.php">color,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-logos.php">design &horbar; logos,</a> 
-        <a href="design-process.php">design &horbar; process,</a> 
+      <p><strong>2018-SEP-16</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="design.php">design,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-process.php">design &horbar; process,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency,</a>
         <a href="websites-portfolio.php">websites &horbar; portfolio</a>
       </p>
-      <p><strong>2018-AUG-27</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-AUG-27</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">design,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="websites-portfolio.php">websites &horbar; portfolio</a>
       </p>
-      <p><strong>2018-AUG-28</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-apps.php">design &horbar; apps,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-logos.php">design &horbar; logos,</a> 
-        <a href="photography.php">photography,</a> 
-        <a href="websites.php">websites,</a> 
+      <p><strong>2018-AUG-28</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">design,</a>
+        <a href="design-apps.php">design &horbar; apps,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="photography.php">photography,</a>
+        <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
       </p>
-      <p><strong>2018-AUG-21</strong> : Added images : 
-        <a href="design-branding.php">branding,</a> 
+      <p><strong>2018-AUG-21</strong> : Added images :
+        <a href="design-branding.php">branding,</a>
         <a href="websites-product.php">websites &horbar; product</a>
       </p>
-      <p><strong>2018-AUG-14</strong> : Added images : 
-        <a href="design.php">design,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
+      <p><strong>2018-AUG-14</strong> : Added images :
+        <a href="design.php">design,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
       </p>
-      <p><strong>2018-AUG-07</strong> : Added images : 
-        <a href="art-illustration.php">art &times; illustration,</a> 
-        <a href="color.php">color,</a> <a href="copywriting.php">copywriting,</a> 
-        <a href="design.php">design,</a> 
-        <a href="design-business-cards.php">design &horbar; business cards,</a> 
-        <a href="design-political.php">design &horbar; political,</a> 
-        <a href="design-typography.php">design &horbar; typography,</a> 
-        <a href="photography.php">photography,</a> 
-        <a href="websites.php">websites,</a> 
+      <p><strong>2018-AUG-07</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a> <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-political.php">design &horbar; political,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="photography.php">photography,</a>
+        <a href="websites.php">websites,</a>
         <a href="websites-agency.php">websites &horbar; agency</a>
       </p>
       <p><strong>2018-JUL-25</strong> : Launch</p>

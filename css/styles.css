@@ -65,9 +65,12 @@ article.col-2,article.col-3,article.col-4,article.col-5,article.col-6{grid-templ
 img:not([src]){visibility:hidden}
 /** lightbox markup **/
 .thumbnail{max-width:40%}
-.lightbox{display:none;background:#140800;height:100%;left:0;position:fixed;text-align:center;top:0;width:100%;z-index:999}
+/* .lightbox{display:none;background:#140800;height:100%;left:0;position:fixed;text-align:center;top:0;width:100%;z-index:999}
 .lightbox img{display:grid;margin-top:16px;margin-bottom:16px;max-height:98%;max-height:calc(100% - 32px);max-width:95%}
-.lightbox:target{background:#140800;outline:0;display:grid;align-items:center;justify-items:center}
+.lightbox:target{background:#140800;outline:0;display:grid;align-items:center;justify-items:center} */
+.lightbox{display:none;left:0;position:fixed;text-align:center;top:0;width:100%;min-height:100vh;height:100%;z-index:999}
+.lightbox img{margin-top:32px;margin-bottom:32px;max-width:80%;height:auto;}
+.lightbox:target{background:#140800;outline:0;display:grid;align-items:top;justify-items:center;overflow:scroll;}
 /* 4. FOOTER */
 footer{border-top:4px solid #fa8335;display:grid;grid-template-columns:1fr;margin-top:32px;padding:8px 0 16px}
 footer nav{margin:0}

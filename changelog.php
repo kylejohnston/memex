@@ -16,6 +16,19 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2019-SEP-12</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="design.php">design,</a>
+        <a href="design-branding.php">design &horbar; branding,</a>
+        <a href="design-business-cards.php">design &horbar; business-cards,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-elements.php">websites &horbar; elements</a>
+    </p>
+
     <p><strong>2019-AUG-31</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="color.php">color,</a>
@@ -29,7 +42,8 @@
         <a href="websites.php">websites,</a>
         <a href="websites-product.php">websites &horbar; product</a>
         <br>Renamed 'design &horbar;&horbar; office' to 'design &horbar;&horbar; space'.
-      </p>
+    </p>
+
     <p><strong>2019-JUN-22</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="color.php">color,</a>

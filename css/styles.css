@@ -37,7 +37,7 @@ header nav{display:grid;min-height:100px;grid-column:span 1;color:#A6B4C2;align-
 .logo{fill:#4F5F6E;margin:0 auto;text-align:center;width:64%}
 a:active .logo,a:hover .logo{fill:#fa8335}
 nav{font-size:1.2em;line-height:1.5;margin:0}
-/* 2. BODY */
+/* 3. BODY */
 .column{grid-column:span 1}
 /* homepage */
 body.home article{display:grid;grid-template-columns:1fr}

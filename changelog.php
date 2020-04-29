@@ -16,12 +16,53 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2020-APR-28</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="design-apps.php">design &horbar; apps,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="websites-agency.php">websites &horbar; agency,</a>
+        <a href="websites-ecommerce.php">websites &horbar; ecommerce</a><br>
+        Added directory: <a href="inbox.php">inbox</a>
+    </p>
+
+    <p><strong>2019-DEC-16</strong> : Added images :
+        <a href="color.php">color,</a>
+        <a href="design.php">design,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-data-visualization.php">design &horbar; data visualization,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-elements.php">websites &horbar; elements,</a>
+        <a href="websites-portfolio.php">websites &horbar; portfolio,</a>
+        <a href="websites-product.php">websites &horbar; product</a>
+    </p>
+
+    <p><strong>2019-DEC-6</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-logos.php">design &horbar; logos,</a>
+        <a href="design-patterns.php">design &horbar; patterns,</a>
+        <a href="design-process.php">design &horbar; process,</a>
+        <a href="design-space.php">design &horbar; space,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="photography.php">photography,</a>
+        <a href="websites.php">websites,</a>
+        <a href="websites-agency.php">websites &horbar; agency</a>
+        <a href="websites-elements.php">websites &horbar; elements</a>
+        <a href="websites-portfolio.php">websites &horbar; portfolio</a>
+    </p>
+
     <p><strong>2019-SEP-12</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="color.php">color,</a>
         <a href="design.php">design,</a>
         <a href="design-branding.php">design &horbar; branding,</a>
-        <a href="design-business-cards.php">design &horbar; business-cards,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
         <a href="design-patterns.php">design &horbar; patterns,</a>
         <a href="design-space.php">design &horbar; space,</a>
         <a href="design-typography.php">design &horbar; typography,</a>

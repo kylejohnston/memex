@@ -21,7 +21,6 @@
         / <a class="bold" href="quotes.php">quotes</a>
         / <a class="bold" href="websites.php">website design</a> &horbar;&horbar;
           <a href="websites-agency.php">agency</a>,
-          <a href="websites-ecommerce.php">ecommerce</a>,
           <a href="websites-elements.php">elements</a>,
           <a href="websites-portfolio.php">portfolio</a>,
           <a href="websites-product.php">product</a>

@@ -16,6 +16,11 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2020-JUL-18</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design.php">color</a>
+    </p>
+
     <p><strong>2020-JUL-11</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="design.php">design,</a>

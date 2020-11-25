@@ -17,7 +17,7 @@
     <article class="col-5">
       <?php
         $www_root = 'img/ephemera';
-        $dir = 'img/ephemera';
+        $dir = 'img/ephemera/preview';
         include('includes/renderer.php');
       ?>
     </article>

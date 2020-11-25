@@ -17,7 +17,7 @@
     <article class="col-3">
       <?php
         $www_root = 'img/copywriting';
-        $dir = 'img/copywriting';
+        $dir = 'img/copywriting/preview';
         include('includes/renderer.php');
       ?>
     </article>

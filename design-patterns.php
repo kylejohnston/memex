@@ -17,7 +17,7 @@
     <article>
       <?php
         $www_root = 'img/design/patterns';
-        $dir = 'img/design/patterns';
+        $dir = 'img/design/patterns/preview';
         include('includes/renderer.php');
       ?>
     </article>

@@ -17,7 +17,7 @@
     <article class="col-3">
       <?php
         $www_root = 'img/design/space';
-        $dir = 'img/design/space';
+        $dir = 'img/design/space/preview';
         include('includes/renderer.php');
       ?>
     </article>

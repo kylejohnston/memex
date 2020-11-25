@@ -18,7 +18,7 @@
     <article class="col-3">
       <?php
         $www_root = 'img/art-illustration';
-        $dir = 'img/art-illustration';
+        $dir = 'img/art-illustration/preview';
         include('includes/renderer.php');
       ?>
     </article>

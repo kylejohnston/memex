@@ -17,7 +17,7 @@
     <article>
       <?php
         $www_root = 'img/design/goods';
-        $dir = 'img/design/goods';
+        $dir = 'img/design/goods/preview';
         include('includes/renderer.php');
       ?>
     </article>

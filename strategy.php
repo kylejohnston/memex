@@ -17,7 +17,7 @@
     <article>
       <?php
         $www_root = 'img/strategy';
-        $dir = 'img/strategy';
+        $dir = 'img/strategy/preview';
         include('includes/renderer.php');
       ?>
     </article>

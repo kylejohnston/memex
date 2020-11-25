@@ -18,8 +18,7 @@
     <article class="col-3">
       <?php
         $www_root = 'img/color';
-        // $www_full = 'img/color/_fullsize';
-        $dir = 'img/color';
+        $dir = 'img/color/preview';
         include('includes/renderer.php');
       ?>
     </article>

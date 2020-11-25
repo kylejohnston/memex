@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>design / web /// memex</title>
+  <title>web design /// memex</title>
   <?php include('includes/head.php'); ?>
 </head>
 <body>
@@ -13,11 +13,11 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>website design</span></h1>
+    <h1><span>web design</span></h1>
     <article class="col-5">
       <?php
         $www_root = 'img/websites/websites';
-        $dir = 'img/websites/websites';
+        $dir = 'img/websites/websites/preview';
         include('includes/renderer.php');
       ?>
     </article>

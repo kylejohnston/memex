@@ -17,7 +17,7 @@
     <article>
       <?php
         $www_root = 'img/design/typography';
-        $dir = 'img/design/typography';
+        $dir = 'img/design/typography/preview';
         include('includes/renderer.php');
       ?>
     </article>

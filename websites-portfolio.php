@@ -17,7 +17,7 @@
     <article class="col-5">
       <?php
         $www_root = 'img/websites/portfolio';
-        $dir = 'img/websites/portfolio';
+        $dir = 'img/websites/portfolio/preview';
         include('includes/renderer.php');
       ?>
     </article>

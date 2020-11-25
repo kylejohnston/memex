@@ -16,8 +16,8 @@
     <h1><span>quotes</span></h1>
     <article>
       <?php
-        $www_root = 'img/design/quotes';
-        $dir = 'img/design/quotes';
+        $www_root = 'img/quotes';
+        $dir = 'img/quotes/preview';
         include('includes/renderer.php');
       ?>
     </article>

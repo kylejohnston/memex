@@ -30,6 +30,7 @@
         <a href="design-space.php">design &horbar; space,</a>
         <a href="design-typography.php">design &horbar; typography,</a>
         <a href="ephemera.php">ephemera,</a>
+        <a href="inbox.php">inbox,</a>
         <a href="photography.php">photography,</a>
         <a href="websites-elements.php">web design &horbar; elements,</a>
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a><br>

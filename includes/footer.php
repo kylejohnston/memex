@@ -20,7 +20,7 @@
         / <a class="bold" href="strategy.php">strategy</a>
         / <a class="bold" href="quotes.php">quotes</a>
         / <a class="bold" href="websites.php">website design</a> &horbar;&horbar;
-          <a href="websites-agency-portfolio.php"> &times; portfolio</a>,
+          <a href="websites-agency-portfolio.php">agency &times; portfolio</a>,
           <a href="websites-elements.php">elements</a>,
           <a href="websites-product.php">product</a>,
           <a href="websites-ux-wireframes.php">ux &times; wireframes</a>

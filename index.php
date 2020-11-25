@@ -49,7 +49,7 @@
           <a href="websites-agency.php">agency &times; portfolio</a>,
           <a href="websites-ecommerce.php">ecommerce</a>,
           <a href="websites-elements.php">elements</a>,
-          <a href="websites-product.php">product</a>
+          <a href="websites-product.php">product,</a>
           <a href="websites-ux-wireframes.php">ux &times; wireframes</a>
         </p>
         <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p>

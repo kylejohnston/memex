@@ -46,7 +46,7 @@
         <p><a class="bold" href="strategy.php">strategy</a></p>
         <p><a class="bold" href="quotes.php">quotes</a></p>
         <p><a class="bold" href="websites.php">web design</a> &horbar;&horbar;<br>
-          <a href="websites-agency.php">agency &times; portfolio</a>,
+          <a href="websites-agency-portfolio.php">agency &times; portfolio</a>,
           <a href="websites-ecommerce.php">ecommerce</a>,
           <a href="websites-elements.php">elements</a>,
           <a href="websites-product.php">product,</a>
@@ -54,7 +54,7 @@
         </p>
         <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p>
       </div>
-        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2020-NOV-25</p>
+        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2021-JAN-17</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

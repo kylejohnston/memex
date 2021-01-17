@@ -16,6 +16,26 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2021-JAN-17</strong> : Added images :
+        <a href="inbox.php">inbox,</a>
+    </p>
+
+    <p><strong>2020-DEC-14</strong> : Added images :
+        <a href="inbox.php">inbox,</a>
+        <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a><br>
+    </p>
+
+    <p><strong>2020-DEC-01</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="design-apps.php">design &horbar; apps,</a>
+        <a href="design-brand-logos.php">design &horbar; brand &times; logos,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="inbox.php">inbox,</a>
+        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio</a><br>
+        <a href="websites-elements.php">web design &horbar; elements</a>
+    </p>
+
     <p><strong>2020-NOV-25</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="color.php">color,</a>
@@ -36,7 +56,7 @@
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a><br>
         Combined directories: design &horbar; branding | design &horbar; logos<br>
         Combined directories: web design &horbar; agency | web design &horbar; portfolio<br>
-        Created directory: web design &horbar; ux &times; wireframes<br>
+        Created directory: web design &horbar; ux &times; wireframes
     </p>
 
     <p><strong>2020-JUL-18</strong> : Added images :

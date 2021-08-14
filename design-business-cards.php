@@ -17,7 +17,7 @@
     <article>
       <?php
         $www_root = 'img/design/business-cards';
-        $dir = 'img/design/business-cards';
+        $dir = 'img/design/business-cards/preview';
         include('includes/renderer.php');
       ?>
     </article>

@@ -16,8 +16,35 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2021-JUN-20</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
+    <p><strong>2021-FEB-28</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
+    <p><strong>2020-FEB-07</strong> : Added images :
+        <a href="art-illustration.php">art &times; illustration,</a>
+        <a href="color.php">color,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="design.php">design,</a>
+        <a href="design-brand-logos.php">design &horbar; brand &times; logos,</a>
+        <a href="design-business-cards.php">design &horbar; business cards,</a>
+        <a href="design-goods.php">design &horbar; goods,</a>
+        <a href="design-process.php">design &horbar; process,</a>
+        <a href="design-typography.php">design &horbar; typography,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="quotes.php">quotes,</a>
+        <a href="websites.php">web design,</a><br>
+        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a><br>
+        <a href="websites-elements.php">web design &horbar; elements,</a>
+        <a href="websites-product.php">web design &horbar; product,</a>
+        <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
+    </p>
+
     <p><strong>2021-JAN-17</strong> : Added images :
-        <a href="inbox.php">inbox,</a>
+        <a href="inbox.php">inbox</a>
     </p>
 
     <p><strong>2020-DEC-14</strong> : Added images :

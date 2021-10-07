@@ -16,6 +16,10 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2021-OCT-06</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
     <p><strong>2021-JUN-20</strong> : Added images :
         <a href="inbox.php">inbox</a>
     </p>

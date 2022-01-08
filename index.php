@@ -30,7 +30,7 @@
         <p><a class="bold" href="copywriting.php">copywriting</a></p>
         <p><a class="bold" href="design.php">design</a> &horbar;&horbar;<br>
           <a href="design-apps.php">apps</a>,
-          <a href="design-branding.php">brand &times; logos</a>,
+          <a href="design-brand-logos.php">brand &times; logos</a>,
           <a href="design-business-cards.php">business cards</a>,
           <a href="design-data-visualization.php"><nobr>data visualization</nobr></a>,
           <a href="design-goods.php">goods</a>,

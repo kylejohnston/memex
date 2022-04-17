@@ -9,3 +9,10 @@
 
   gtag('config', 'UA-92556-27');
 </script>
+<!--
+XX    XX  XXXXX  XX    XX  XXXXX  XX   XX
+XXX  XXX  XX     XXX  XXX  XX      XX XX
+XX XX XX  XXXX   XX XX XX  XXXX     XXX
+XX    XX  XX     XX    XX  XX      XX XX
+XX    XX  XXXXX  XX    XX  XXXXX  XX   XX
+ -->

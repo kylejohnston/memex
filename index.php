@@ -51,7 +51,7 @@
           <a href="websites-product.php">product,</a>
           <a href="websites-ux-wireframes.php">ux &times; wireframes</a>
         </p>
-        <!-- <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p> -->
+        <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p>
       </div>
         <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2022-Apr-16</p>
     </div>

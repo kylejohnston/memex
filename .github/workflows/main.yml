@@ -11,6 +11,9 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
-        server: ftp.samkirkland.com
-        username: myFtpUserName
+        server: 165.22.35.8
+        username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
+        port: 22
+        protocol: ftps
+        server-dir: /var/www/flow14.com/subdomains/memex/

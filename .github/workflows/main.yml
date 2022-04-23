@@ -17,3 +17,4 @@ jobs:
         port: 22
         protocol: ftps
         server-dir: /var/www/flow14.com/subdomains/memex/
+        dry-run: true

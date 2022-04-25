@@ -20,4 +20,4 @@ jobs:
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
       - name: Deploy with rsync
-        run: rsync --ignore-existing -raz --progress ./ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/flow14.com/subdomains/memex/
+        run: rsync --ignore-existing -avz ./ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/flow14.com/subdomains/memex/

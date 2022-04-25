@@ -20,7 +20,7 @@
         <a href="inbox.php">inbox</a>
     </p>
 
-    <p><strong>2022-Apr-16</strong> : Added images :
+    <p><strong>2022-APR-16</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="design.php">design,</a>
         <a href="design-apps.php">design &horbar; apps,</a>
@@ -37,7 +37,7 @@
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
     </p>
 
-    <p><strong>2022-Jan-09</strong> : Added images :
+    <p><strong>2022-JAN-09</strong> : Added images :
         <a href="art-illustration.php">art &times; illustration,</a>
         <a href="color.php">color,</a>
         <a href="design.php">design,</a>

@@ -15,8 +15,8 @@ jobs:
       uses: easingthemes/ssh-deploy@main
       env:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-        ARGS: "-razv"
-        SOURCE: "/"
+        ARGS: "-razv --dry-run"
+        SOURCE: "**"
         REMOTE_HOST: ${{ secrets.SSH_HOST }}
         REMOTE_USER: ${{ secrets.SSH_USER }}
         TARGET: ${{ secrets.REMOTE_TARGET }}

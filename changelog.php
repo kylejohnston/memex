@@ -16,6 +16,14 @@
 
   <article class="col-2">
     <div class="column content">
+    <p><strong>2022-AUG-10</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
+    <p><strong>2022-JUL-09</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
     <p><strong>2022-APR-24</strong> : Added images :
         <a href="inbox.php">inbox</a>
     </p>

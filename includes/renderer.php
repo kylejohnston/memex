@@ -1,5 +1,5 @@
 <?php
-  $file_display = array('jpg', 'jpeg', 'png', 'gif');
+  $file_display = array('jpg', 'jpeg', 'png', 'gif', 'webp');
 
   if ( file_exists( $dir ) == false ) {
     echo 'Directory \'', $dir, '\' not found!';

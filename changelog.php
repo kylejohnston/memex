@@ -14,8 +14,20 @@
   </header>
   <div class="col-1 content"><h1><span>Changelog</span></h1></div>
 
-  <article class="col-2">
+    <p><strong>2022-OCT-22</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+
+    <article class="col-2">
     <div class="column content">
+    <p><strong>2022-DEC-03</strong> : Added images :
+        <a href="inbox.php">inbox</a>
+    </p>
+    <p><strong>2022-OCT-15</strong> : Added images :
+        <a href="inbox.php">inbox</a><br>
+        - Converted all images to webp<br>
+        - Updated renderer to support webp
+    </p>
     <p><strong>2022-SEP-18</strong> : Added images :
         <a href="inbox.php">inbox,</a>
         <a href="art-illustration.php">art &times; illustration,</a>
@@ -84,7 +96,7 @@
         <a href="ephemera.php">ephemera,</a>
         <a href="photography.php">photography,</a>
         <a href="websites.php">web design,</a>
-        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a><br>
+        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a>
         <a href="websites-elements.php">web design &horbar; elements,</a>
         <a href="websites-product.php">web design &horbar; product,</a>
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
@@ -114,8 +126,8 @@
         <a href="design-typography.php">design &horbar; typography,</a>
         <a href="ephemera.php">ephemera,</a>
         <a href="quotes.php">quotes,</a>
-        <a href="websites.php">web design,</a><br>
-        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a><br>
+        <a href="websites.php">web design,</a>
+        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a>
         <a href="websites-elements.php">web design &horbar; elements,</a>
         <a href="websites-product.php">web design &horbar; product,</a>
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
@@ -127,7 +139,7 @@
 
     <p><strong>2020-DEC-14</strong> : Added images :
         <a href="inbox.php">inbox,</a>
-        <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a><br>
+        <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
     </p>
 
     <p><strong>2020-DEC-01</strong> : Added images :
@@ -137,7 +149,7 @@
         <a href="design-business-cards.php">design &horbar; business cards,</a>
         <a href="design-goods.php">design &horbar; goods,</a>
         <a href="inbox.php">inbox,</a>
-        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio</a><br>
+        <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio</a>
         <a href="websites-elements.php">web design &horbar; elements</a>
     </p>
 
@@ -159,9 +171,9 @@
         <a href="photography.php">photography,</a>
         <a href="websites-elements.php">web design &horbar; elements,</a>
         <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a><br>
-        Combined directories: design &horbar; branding | design &horbar; logos<br>
-        Combined directories: web design &horbar; agency | web design &horbar; portfolio<br>
-        Created directory: web design &horbar; ux &times; wireframes
+        - Combined directories: design &horbar; branding | design &horbar; logos<br>
+        - Combined directories: web design &horbar; agency | web design &horbar; portfolio<br>
+        - Created directory: web design &horbar; ux &times; wireframes
     </p>
 
     <p><strong>2020-JUL-18</strong> : Added images :
@@ -184,7 +196,7 @@
         <a href="websites-elements.php">websites &horbar; elements,</a>
         <a href="websites-portfolio.php">websites &horbar; portfolio,</a>
         <a href="websites-product.php">websites &horbar; product</a><br>
-        Removed directory: websites &horbar; ecommerce (merged w/ websites)
+        - Removed directory: websites &horbar; ecommerce (merged w/ websites)
     </p>
 
     <p><strong>2020-APR-28</strong> : Added images :
@@ -195,7 +207,7 @@
         <a href="design-space.php">design &horbar; space,</a>
         <a href="websites-agency.php">websites &horbar; agency,</a>
         <a href="websites-ecommerce.php">websites &horbar; ecommerce</a><br>
-        Added directory: <a href="inbox.php">inbox</a>
+        - Added directory: <a href="inbox.php">inbox</a>
     </p>
 
     <p><strong>2019-DEC-16</strong> : Added images :
@@ -253,7 +265,8 @@
         <a href="photography.php">photography,</a>
         <a href="websites.php">websites,</a>
         <a href="websites-product.php">websites &horbar; product</a>
-        <br>Renamed 'design &horbar;&horbar; office' to 'design &horbar;&horbar; space'.
+        <br>
+        - Renamed 'design &horbar;&horbar; office' to 'design &horbar;&horbar; space'.
     </p>
 
     <p><strong>2019-JUN-22</strong> : Added images :

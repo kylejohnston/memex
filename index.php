@@ -53,7 +53,7 @@
         </p>
         <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p>
       </div>
-        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2022-SEP-18</p>
+        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2022-DEC-03</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

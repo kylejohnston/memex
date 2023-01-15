@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/styles.css?20181218_0001">
+<link rel="stylesheet" href="css/styles.css?20230115_0001">
 <script src="js/lazysizes.min.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-92556-27"></script>

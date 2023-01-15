@@ -25,6 +25,7 @@
     <div class="column order--2">
       <h2 class="spacer--0">Categories:</h2>
       <div class="categories">
+        <p><a class="bold" href="architecture-space.php">architecture &times; space</a></p>
         <p><a class="bold" href="art-illustration.php">art &times; illustration</a></p>
         <p><a class="bold" href="color.php">color</a></p>
         <p><a class="bold" href="copywriting.php">copywriting</a></p>
@@ -38,7 +39,7 @@
           <a href="design-patterns.php">patterns</a>,
           <a href="design-political.php">political</a>,
           <a href="design-process.php">process</a>,
-          <a href="design-space.php">space</a>,
+          <!-- <a href="design-space.php">space</a>, -->
           <a href="design-typography.php">typography</a>
         </p>
         <p><a class="bold" href="ephemera.php">ephemera</a></p>
@@ -53,7 +54,7 @@
         </p>
         <p><span class="hexFFF5EF"><a href="inbox.php">inbox</a></span></p>
       </div>
-        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2022-DEC-03</p>
+        <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2023-JAN-15</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

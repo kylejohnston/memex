@@ -1,6 +1,7 @@
 <nav class="column">
   <div class="nav-item">
-          <a class="bold" href="art-illustration.php">art &times; illustration</a>
+          <a class="bold" href="architecture-space.php">architecture &times; space</a>
+        /  <a class="bold" href="art-illustration.php">art &times; illustration</a>
         / <a class="bold" href="color.php">color</a>
         / <a class="bold" href="copywriting.php">copywriting</a>
         / <a class="bold" href="design.php">design</a> &horbar;&horbar;
@@ -13,7 +14,7 @@
           <a href="design-patterns.php">patterns</a>,
           <a href="design-political.php">political</a>,
           <a href="design-process.php">process</a>,
-          <a href="design-space.php">space</a>,
+          <!-- <a href="design-space.php">space</a>, -->
           <a href="design-typography.php">typography</a>
         / <a class="bold" href="ephemera.php">ephemera</a>
         / <a class="bold" href="photography.php">photography</a>

@@ -14,12 +14,8 @@
   </header>
   <div class="content">
     <h1><span>design &horbar;&horbar; space</span></h1>
-    <article class="col-3">
-      <?php
-        $www_root = 'img/design/space';
-        $dir = 'img/design/space/preview';
-        include('includes/renderer.php');
-      ?>
+    <article class="col-1">
+      <h2>This page has moved to <a href="architecture-space.php" title="This page has moved">architecture &times; space</a></h2>
     </article>
   </div>
   <footer>

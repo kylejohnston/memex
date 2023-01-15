@@ -104,6 +104,7 @@ footer .info{text-align:center}
 	.content>h1>*{padding:8px}
 	.item:hover{padding-top:0;transform:scale(1.15);z-index:10}
 	article{display:grid;grid-gap:8px;grid-template-columns:repeat(4,1fr)}
+	article.col-1{grid-template-columns:repeat(1,1fr)}
 	article.col-2{grid-template-columns:repeat(2,1fr)}
 	article.col-3{grid-template-columns:repeat(3,1fr)}
 	article.col-4{grid-template-columns:repeat(4,1fr)}

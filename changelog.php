@@ -17,9 +17,15 @@
   
   <article class="col-2">
     <div class="column content">
-      <p><strong>2023-JAN-15</strong> : Moved design &horbar; space to architecture &times; space :
+      <p>
+        <strong>2023-MAR-15</strong> : Added images :
+        <a href="inbox.php">inbox</a>
       </p>
-      <p><strong>2023-JAN-03</strong> : Added images :
+      <p>
+        <strong>2023-JAN-15</strong> : Moved design &horbar; space to architecture &times; space :
+      </p>
+      <p>
+        <strong>2023-JAN-03</strong> : Added images :
         <a href="inbox.php">inbox</a>
       </p>
       <p><strong>2022-DEC-03</strong> : Added images :

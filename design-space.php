@@ -13,7 +13,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>design &horbar;&horbar; space</span></h1>
+    <h1><span>design <span class="dash"></span> space</span></h1>
     <article class="col-1">
       <h2>This page has moved to <a href="architecture-space.php" title="This page has moved">architecture &times; space</a></h2>
     </article>

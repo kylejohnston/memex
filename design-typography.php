@@ -13,7 +13,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>design &horbar;&horbar; typography</span></h1>
+    <h1><span>design <span class="dash"></span> typography</span></h1>
     <article>
       <?php
         $www_root = 'img/design/typography';

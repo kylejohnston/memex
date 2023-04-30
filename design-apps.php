@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>design &horbar; apps /// memex</title>
+  <title>design / apps /// memex</title>
   <?php include('includes/head.php'); ?>
 </head>
 <body>
@@ -13,7 +13,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>design &horbar;&horbar; apps</span></h1>
+    <h1><span>design <span class="dash"></span> apps</span></h1>
     <article>
       <?php
         $www_root = 'img/design/apps';

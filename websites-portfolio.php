@@ -13,7 +13,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>website design &horbar;&horbar; portfolio</span></h1>
+    <h1><span>website design <span class="dash"></span> portfolio</span></h1>
     <article class="col-5">
       <?php
         $www_root = 'img/websites/portfolio';

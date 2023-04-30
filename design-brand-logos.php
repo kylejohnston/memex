@@ -13,7 +13,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>design &horbar;&horbar; brand &times; logos</span></h1>
+    <h1><span>design <span class="dash"></span> brand<span class="nudge-x">×</span>logos</span></h1>
     <article class="col-3">
       <?php
         $www_root = 'img/design/brand-logos';

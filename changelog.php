@@ -16,7 +16,23 @@
 
   
   <article class="col-2">
-    <div class="column content">
+    <div class="column content prose">
+    <p><strong>2023-APR-25</strong> : Added images :
+          <a href="inbox.php">inbox,</a>
+          <a href="art-illustration.php">art &times; illustration,</a>
+          <a href="color.php">color,</a>
+          <a href="copywriting.php">copywriting,</a>
+          <a href="design.php">design,</a>
+          <a href="design-brand-logos.php">design &horbar; brand &times; logos,</a>
+          <a href="design-data-visualization.php">design &horbar; data visualization,</a>
+          <a href="design-typography.php">design &horbar; typography,</a>
+          <a href="quotes.php">quotes,</a>
+          <a href="websites.php">web design,</a>
+          <a href="websites-agency-portfolio.php">web design &horbar; agency &times; portfolio,</a>
+          <a href="websites-elements.php">web design &horbar; elements,</a>
+          <a href="websites-product.php">web design &horbar; product,</a>
+          <a href="websites-ux-wireframes.php">web design &horbar; ux &times; wireframes</a>
+      </p>
       <p>
         <strong>2023-MAR-15</strong> : Added images :
         <a href="inbox.php">inbox</a>

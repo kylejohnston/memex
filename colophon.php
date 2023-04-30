@@ -14,7 +14,7 @@
   </header>
   <div class="col-1 content"><h1><span>Colophon</span></h1></div>
 
-  <article class="col-2">
+  <article class="col-2 prose">
     <div class="column content">
       <h2>MEMEX is a simple PHP-based tool that finds all the images in a directory and displays them on a page.</h2>
       <p>The goal of this project was to use a minimal amount of code to create a modern, robust gallery of visual inspiration.</p>

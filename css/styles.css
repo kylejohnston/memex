@@ -407,7 +407,7 @@ body.home article {
 article {
 	display: grid;
 	grid-gap: 8px;
-	grid-template-columns: 1fr;
+	grid-template-columns:repeat(2,1fr);
 	margin: 0 0;
 }
 .gap--16 {
@@ -422,8 +422,11 @@ article {
 .gap--40 {
 	grid-gap:40px
 }
-.col-2,.col-3,.col-4,.col-5,.col-6 {
+.col-2 {
 	grid-template-columns:1fr
+}
+.col-3,.col-4,.col-5,.col-6 {
+	grid: template columns:repeat(2,1fr)
 }
 .col-5 .item {
 	max-height:350px
@@ -587,7 +590,7 @@ footer .info {
 	nav { text-align: left; }
 	/* BODY */
 	body {
-		margin:32px 40px
+		margin:32px 40px;
 	}
 	.intro {
 		border-left:4px solid var(--link);

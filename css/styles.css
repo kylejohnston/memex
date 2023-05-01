@@ -3,6 +3,14 @@ NEXT:
 - Style top nav on sub-pages
 - Fix colophon page
 */
+@font-face {
+	font-family: 'Akkurat Mono';
+	src:
+	url('/fonts/AkkuratMono-Regular.woff') format('woff'),
+	url('/fonts/AkkuratMono-Regular.ttf') format('truetype'),
+	url('/fonts/AkkuratMono-Regular.svg#AkkuratMonoRegular') format('svg');
+}
+
 :root {
 	--link:       #fa8335;
 	--lite:       #fa833544;
@@ -44,7 +52,7 @@ hr {
 	height:0
 }
 code,kbd,pre,samp {
-	font-family:monospace,monospace;
+	font-family:'Akkurat Mono',monospace;
 	font-size:1em
 }
 a {
@@ -133,13 +141,6 @@ summary {
 
 /* ~~~~~ 1. BASE STYLES ~~~~~ */
 
-@font-face {
-	font-family: 'Akkurat Mono';
-	src:
-	url('/fonts/AkkuratMono-Regular.woff') format('woff'),
-	url('/fonts/AkkuratMono-Regular.ttf') format('truetype'),
-	url('/fonts/AkkuratMono-Regular.svg#AkkuratMonoRegular') format('svg');
-}
 *,:after,:before {
 	box-sizing:border-box!important
 }
@@ -154,10 +155,11 @@ html,html a {
 }
 body {
 	background: var(--background);
-	font-family:'Akkurat Mono';
+	font-family:'Akkurat Mono', monospace;
 	font-weight:500;
 	line-height:1.3rem;
-	margin: 12px
+	margin: 12px;
+	/* padding: 3em 0; */
 }
 ul { 
 	list-style-type: none;
@@ -312,7 +314,7 @@ header {
 	header h1 { text-align: center; }
 .logo {
 	fill: #4F5F6E;
-	margin: 0 auto 1em auto;
+	margin: .5em auto 1em auto;
 	text-align: center;
 	width: 64%;
 }

@@ -31,14 +31,14 @@
           <li><a href="copywriting.php">copywriting</a></li>
           <li><a href="design.php">design</a> <span class="dash"></span>
             <ul>
-              <li><a href="design-apps.php">apps</a>,</li>
-              <li><a href="design-brand-logos.php">brand &times; logos</a>,</li>
-              <li><a href="design-business-cards.php">business cards</a>,</li>
-              <li><a href="design-data-visualization.php"><nobr>data visualization</nobr></a>,</li>
-              <li><a href="design-goods.php">goods</a>,</li>
-              <li><a href="design-patterns.php">patterns</a>,</li>
-              <li><a href="design-political.php">political</a>,</li>
-              <li><a href="design-process.php">process</a>,</li>
+              <li><a href="design-apps.php">apps</a></li>
+              <li><a href="design-brand-logos.php">brand &times; logos</a></li>
+              <li><a href="design-business-cards.php">business cards</a></li>
+              <li><a href="design-data-visualization.php"><nobr>data visualization</nobr></a></li>
+              <li><a href="design-goods.php">goods</a></li>
+              <li><a href="design-patterns.php">patterns</a></li>
+              <li><a href="design-political.php">political</a></li>
+              <li><a href="design-process.php">process</a></li>
               <li><a href="design-typography.php">typography</a></li>
             </ul>
           </li>

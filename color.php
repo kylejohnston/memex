@@ -15,7 +15,7 @@
   <div class="content">
     <!-- 001 -->
     <h1><span>color</span></h1>
-    <article class="col-3">
+    <article>
       <?php
         $www_root = 'img/color';
         $dir = 'img/color/preview';

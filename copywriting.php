@@ -14,7 +14,7 @@
   </header>
   <div class="content">
     <h1><span>copywriting</span></h1>
-    <article class="col-3">
+    <article>
       <?php
         $www_root = 'img/copywriting';
         $dir = 'img/copywriting/preview';

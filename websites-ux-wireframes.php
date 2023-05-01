@@ -14,7 +14,7 @@
   </header>
   <div class="content">
     <h1><span>web design <span class="dash"></span> UX</span></h1>
-    <article class="col-5">
+    <article>
       <?php
         $www_root = 'img/websites/ux-wireframes';
         $dir = 'img/websites/ux-wireframes/preview';

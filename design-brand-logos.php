@@ -14,7 +14,7 @@
   </header>
   <div class="content">
     <h1><span>design <span class="dash"></span> brand<span class="nudge-x">×</span>logos</span></h1>
-    <article class="col-3">
+    <article>
       <?php
         $www_root = 'img/design/brand-logos';
         $dir = 'img/design/brand-logos/preview';

@@ -15,7 +15,7 @@
   <div class="content">
     <!-- 001 -->
     <h1><span>architecture &times; space</span></h1>
-    <article class="col-3">
+    <article>
       <?php
         $www_root = 'img/architecture-space';
         $dir = 'img/architecture-space/preview';

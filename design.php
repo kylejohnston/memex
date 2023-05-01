@@ -14,7 +14,7 @@
   </header>
   <div class="content">
     <h1><span>design</span></h1>
-    <article class="col-5">
+    <article>
       <?php
         $www_root = 'img/design/design';
         $dir = 'img/design/design/preview';

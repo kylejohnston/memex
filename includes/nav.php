@@ -4,9 +4,10 @@
       <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="currentColor" width="14" height="14" style="margin:0;">
         <circle cx="50" cy="50" r="50" />
       </svg>
-      menu
+      explore
     </a></p>
     <div href="/" class="overlay " id="menu" >
+      <h1 style="margin: 0.5em 0 1em 0;">explore</h1>
       <ul class="column order--1">
         <li><a href="architecture-space.php">architecture &times; space</a></li>
         <li><a href="art-illustration.php">art &times; illustration</a></li>

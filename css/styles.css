@@ -12,10 +12,10 @@ NEXT:
 }
 
 :root {
-	--link:       #fa8335;
-	--lite:       #fa833544;
-	--liter:      #fa833522;
-	--hover:      #fa8335FF;
+	--link:       #D94508;
+	--lite:       #D9450844;
+	--liter:      #D9450822;
+	--hover:      #D94508FF;
 	--background: #fffcfa;
 	--text:       #140800;
 	--light:      #D8D6D5;
@@ -605,7 +605,7 @@ footer .info {
 	article {
 		display:grid;
 		grid-gap:8px;
-		grid-template-columns:repeat(4,1fr)
+		grid-template-columns:repeat(4,1fr);
 	}
 	.col-1 {
 		grid-template-columns:repeat(1,1fr)

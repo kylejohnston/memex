@@ -12,10 +12,11 @@ NEXT:
 }
 
 :root {
-	--link:       #D94508;
-	--lite:       #D9450844;
-	--liter:      #D9450822;
-	--hover:      #D94508FF;
+	--fallback:   #FF3600;
+	--link:       lch(60% 132 54 / 1); /*color(display-p3 1 0.26 0);*/
+	--lite:       lch(60% 132 54 / 0.28);
+	--liter:      lch(60% 132 54 / 0.22);
+	--hover:      var(--link);
 	--background: #fffcfa;
 	--text:       #140800;
 	--light:      #D8D6D5;
@@ -185,6 +186,7 @@ ul li ul li {
 
 a:link,
 a:visited {
+	color:var(--fallback);
 	color:var(--link);
 	padding: 3px 6px 1px 6px;
 	margin: -3px -6px -1px -6px;
@@ -292,6 +294,7 @@ h3 {
 	padding:4px
 }
 .hexFA8335 {
+	background:var(--fallback);
 	background:var(--link);
 	color: var(--background);
 	display:block;
@@ -323,6 +326,7 @@ header {
 	width: 64%;
 }
 	a:active .logo-svg,a:hover .logo-svg {
+		fill: var(--lifallbacknk)
 		fill: var(--link)
 	}
 nav {
@@ -330,8 +334,10 @@ nav {
 	text-align: center;
 }
 .menu a { 
+	color: var(--fallback);
 	color: var(--link);
 	font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem);
+	border: 1px solid var(--fallback);
 	border: 1px solid var(--link);
 	border-radius: 9999px;
 	margin: 0;
@@ -388,7 +394,8 @@ body.home article {
 		margin: 0;
 		line-height: 1;
 	}
-.intro {
+	.intro {
+	border-top:4px solid var(--fallback);
 	border-top:4px solid var(--link);
 	padding:8px 0 0 0
 }
@@ -432,6 +439,7 @@ article {
 	max-height:350px
 }
 .item {
+	border-top: 3px solid var(--fallback);
 	border-top: 3px solid var(--link);
 	margin: 0 0 9px;
 	max-height:800px;
@@ -512,6 +520,7 @@ img:not([src]) {
 }
 /* 4. FOOTER */
 footer {
+	border-top:4px solid var(--fallback);
 	border-top:4px solid var(--link);
 	display:grid;
 	grid-template-columns:1fr;
@@ -548,6 +557,7 @@ footer .info {
 /* 5. BREAKPOINTS (544 SM, 768 MD, 1012 LG, 1280 XL) */
 @media (min-width: 544px) {
 	.intro {
+		border-left:4px solid var(--fallback);
 		border-left:4px solid var(--link);
 		border-top:none;
 		padding:0 0 0 24px
@@ -593,6 +603,7 @@ footer .info {
 		margin:32px 40px;
 	}
 	.intro {
+		border-left:4px solid var(--fallback);
 		border-left:4px solid var(--link);
 		border-top:none;
 		padding:0 0 0 24px

@@ -1,3 +1,8 @@
+<?php
+  $www_root = 'img/copywriting';
+  $dir = 'img/copywriting/preview';
+  include('includes/renderer-head.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,11 +18,9 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>copywriting</span></h1>
+    <h1><span>copywriting (<?php echo $total_count; ?>)</span></h1>
     <article>
       <?php
-        $www_root = 'img/copywriting';
-        $dir = 'img/copywriting/preview';
         include('includes/renderer.php');
       ?>
     </article>

@@ -1,3 +1,8 @@
+<?php
+  $www_root = 'img/art-illustration';
+  $dir = 'img/art-illustration/preview';
+  include('includes/renderer-head.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,15 +19,12 @@
   </header>
   <div class="content">
     <!-- 001 -->
-    <h1><span>art &times; illustration</span></h1>
+    <h1><span>art &times; illustration (<?php echo $total_count; ?>)</span></h1>
     <article>
       <?php
-        $www_root = 'img/art-illustration';
-        $dir = 'img/art-illustration/preview';
         include('includes/renderer.php');
       ?>
     </article>
-
   </div>
   <footer>
     <?php include('includes/footer.php'); ?>

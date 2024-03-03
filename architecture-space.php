@@ -1,3 +1,8 @@
+<?php
+  $www_root = 'img/architecture-space';
+  $dir = 'img/architecture-space/preview';
+  include('includes/renderer-head.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,15 +19,12 @@
   </header>
   <div class="content">
     <!-- 001 -->
-    <h1><span>architecture &times; space</span></h1>
+    <h1><span>architecture &times; space (<?php echo $total_count; ?>)</span></h1>
     <article>
       <?php
-        $www_root = 'img/architecture-space';
-        $dir = 'img/architecture-space/preview';
         include('includes/renderer.php');
       ?>
     </article>
-
   </div>
   <footer>
     <?php include('includes/footer.php'); ?>

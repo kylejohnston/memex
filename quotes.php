@@ -1,3 +1,8 @@
+<?php
+  $www_root = 'img/quotes';
+  $dir = 'img/quotes/preview';
+  include('includes/renderer-head.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,11 +18,9 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>quotes</span></h1>
+    <h1><span>quotes (<?php echo $total_count; ?>)</span></h1>
     <article>
       <?php
-        $www_root = 'img/quotes';
-        $dir = 'img/quotes/preview';
         include('includes/renderer.php');
       ?>
     </article>

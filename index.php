@@ -56,10 +56,11 @@
               <li><a href="w-websites.php">websites</a></li>
             </ul>
           </li>
+          <li><a href="all.php">∹ index</a></li>
           <li><a href="inbox.php">⁖ inbox</a></li>
         </ul>
       </div>
-      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-MAR-03</p>
+      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-MAY-19</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

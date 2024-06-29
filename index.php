@@ -60,7 +60,7 @@
           <li><a href="inbox.php">⁖ inbox</a></li>
         </ul>
       </div>
-      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-MAY-19</p>
+      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-JUN-29</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

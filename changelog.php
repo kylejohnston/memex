@@ -17,17 +17,35 @@
   
   <article class="col-2">
     <div class="column content prose">
-      <p><strong>2024-MAR-03</strong> Added images : 
-      <a href="inbox.php">inbox,</a>
-      <a href="w-agency-portfolio.php">agency × portfolio,</a>
-      <a href="d-apps.php">apps,</a>
-      <a href="d-brand-logos.php">brand × logos,</a>
-      <a href="d-data-visualization.php">data visualization,</a>
-      <a href="goods.php">goods,</a>
-      <a href="quotes.php">quotes,</a>
-      <a href="w-websites.php">websites;</a>
+    <p><strong>2024-JUN-29</strong> : New page: <a href="all.php">all</a></p>
+    <p><strong>2024-MAY-19</strong> : Added images :
+        <a href="inbox.php">inbox,</a>
+        <a href="w-agency-portfolio.php">agency × portfolio,</a>
+        <a href="architecture-space.php">architecture × space,</a>
+        <a href="art-illustration.php">art × illustration,</a>
+        <a href="d-brand-logos.php">brand × logos,</a>
+        <a href="color.php">color,</a>
+        <a href="w-elements.php">elements,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="d-process.php">process,</a>
+        <a href="strategy.php">strategy,</a>
+        <a href="d-typography.php">typography,</a>
+        <a href="w-ux-wireframes.php">ux × wireframe,</a>
+        <a href="d-visual-design.php">visual design,</a>
+        <a href="w-websites.php">websites</a>
+    </p>
 
-      Created new index pages for <a href="design.php">design</a> and <a href="websites.php">websites</a>; moved <a href="goods.php">goods</a> to its own directory; updated renderer to display the number of items in each category
+    <p><strong>2024-MAR-03</strong> Added images : 
+        <a href="inbox.php">inbox,</a>
+        <a href="w-agency-portfolio.php">agency × portfolio,</a>
+        <a href="d-apps.php">apps,</a>
+        <a href="d-brand-logos.php">brand × logos,</a>
+        <a href="d-data-visualization.php">data visualization,</a>
+        <a href="goods.php">goods,</a>
+        <a href="quotes.php">quotes,</a>
+        <a href="w-websites.php">websites;</a>
+
+        Created new index pages for <a href="design.php">design</a> and <a href="websites.php">websites</a>; moved <a href="goods.php">goods</a> to its own directory; updated renderer to display the number of items in each category
       </p>
 
       <p><strong>2023-NOV-12</strong> : Added images :

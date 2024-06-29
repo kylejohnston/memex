@@ -56,7 +56,7 @@
               <li><a href="w-websites.php">websites</a></li>
             </ul>
           </li>
-          <li><a href="all.php">∹ index</a></li>
+          <li><a href="all.php">∹ all</a></li>
           <li><a href="inbox.php">⁖ inbox</a></li>
         </ul>
       </div>

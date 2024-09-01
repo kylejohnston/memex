@@ -17,6 +17,7 @@
   
   <article class="col-2">
     <div class="column content prose">
+    <p><strong>2024-SEP-01</strong> : Updated nav design; added aspect ratios</p>
     <p><strong>2024-JUN-29</strong> : New page: <a href="all.php">all</a></p>
     <p><strong>2024-MAY-19</strong> : Added images :
         <a href="inbox.php">inbox,</a>

@@ -66,7 +66,7 @@ shuffle($all_images); // Shuffle all images together
 // Display the shuffled images
 foreach ($all_images as $image) {
   echo '
-  <div class="item">
+  <div class="item" style="aspect-ratio: 2 / 3;">
     <a href="#',$image['fullpath'],'">
       <img class="lazyload" src="img/loader-x.svg" data-src="', $image['filepath'],'" alt="', htmlspecialchars(pathinfo($image['filepath'], PATHINFO_BASENAME)), '" width="auto">
     </a>

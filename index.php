@@ -25,11 +25,7 @@
       <h2 class="spacer--0">Explore:</h2>
       <div class="menu">
         <ul>
-          <li><a href="architecture-space.php">architecture &times; space</a></li>
-          <li><a href="art-illustration.php">art &times; illustration</a></li>
-          <li><a href="color.php">color</a></li>
-          <li><a href="copywriting.php">copywriting</a></li>
-          <li><a href="design.php">design index</a> <span class="dash"></span>
+          <li><a class="button" href="design.php">design index</a><br>
             <ul>
               <li><a href="d-apps.php">apps</a></li>
               <li><a href="d-brand-logos.php">brand &times; logos</a></li>
@@ -42,12 +38,7 @@
               <li><a href="d-visual-design.php">visual design</a></li>
             </ul>
           </li>
-          <li><a href="ephemera.php">ephemera</a></li>
-          <li><a href="goods.php">goods</a></li>
-          <li><a href="photography.php">photography</a></li>
-          <li><a href="strategy.php">strategy</a></li>
-          <li><a href="quotes.php">quotes</a></li>
-          <li><a href="websites.php">websites index</a> <span class="dash"></span>
+          <li><a class="button" href="websites.php">websites index</a><br>
             <ul>
               <li><a href="w-elements.php">elements</a></li>
               <li><a href="w-agency-portfolio.php">portfolios</a></li>
@@ -56,11 +47,24 @@
               <li><a href="w-websites.php">websites</a></li>
             </ul>
           </li>
-          <li><a href="all.php">∹ all</a></li>
-          <li><a href="inbox.php">⁖ inbox</a></li>
+          <li><a href="architecture-space.php">architecture &times; space</a></li>
+          <li><a href="art-illustration.php">art &times; illustration</a></li>
+          <li><a href="color.php">color</a></li>
+          <li><a href="copywriting.php">copywriting</a></li>
+          <li><a href="ephemera.php">ephemera</a></li>
+          <li><a href="goods.php">goods</a></li>
+          <li><a href="photography.php">photography</a></li>
+          <li><a href="strategy.php">strategy</a></li>
+          <li><a href="quotes.php">quotes</a></li>
+          <li>
+            <ul>
+              <li><a class="button" href="all.php">∹ all</a></li>
+              <li><a class="button" href="inbox.php">⁖ inbox</a></li>
+            </ul>
+          </li>
         </ul>
       </div>
-      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-JUN-29</p>
+      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-SEP-01</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

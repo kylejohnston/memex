@@ -188,11 +188,14 @@ a:link,
 a:visited {
 	color:var(--fallback);
 	color:var(--link);
-	padding: 3px 6px 1px 6px;
-	margin: -3px -6px -1px -6px;
-	border-radius: 9999px;
-	text-decoration:none
+	transition: all .3s ease-in-out;
 }
+	a.button { 
+		padding: 3px 6px 1px 6px;
+		margin: -3px -6px -1px -6px;
+		border-radius: 9999px;
+		text-decoration:none
+	}
 a:hover,
 a:active {
 	background:var(--hover);
@@ -337,13 +340,15 @@ nav {
 	color: var(--fallback);
 	color: var(--link);
 	font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem);
-	border: 1px solid var(--fallback);
-	border: 1px solid var(--link);
-	border-radius: 9999px;
-	margin: 0;
-	padding: 5px 12px 3px 12px;
-	white-space: nowrap;
 }
+	.menu a.button {
+		border: 1px solid var(--fallback);
+		border: 1px solid var(--link);
+		border-radius: 9999px;
+		margin: 0;
+		padding: 5px 12px 3px 12px;
+		white-space: nowrap;
+	}
 	article .menu { margin: 1em 0; }
 	article .menu a {
 		font-size: 1.125em;

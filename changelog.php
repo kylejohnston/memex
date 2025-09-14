@@ -17,6 +17,26 @@
   
   <article class="col-2">
     <div class="column content prose">
+    <p><strong>2025-AUG-16</strong> : Added images : 
+        <a href="w-agency-portfolio.php">agency × portfolio,</a>
+        <a href="d-apps.php">apps,</a>
+        <a href="architecture-space.php">architecture × space,</a>
+        <a href="art-illustration.php">art × illustration,</a>
+        <a href="d-brand-logos.php">brand × logos,</a>
+        <a href="d-business-cards.php">business cards,</a>
+        <a href="color.php">color,</a>
+        <a href="copywriting.php">copywriting,</a>
+        <a href="d-data-visualization.php">data visualization,</a>
+        <a href="w-elements.php">elements,</a>
+        <a href="ephemera.php">ephemera,</a>
+        <a href="goods.php">goods,</a>
+        <a href="d-patterns.php">patterns,</a>
+        <a href="d-typography.php">typography,</a>
+        <a href="d-visual-design.php">visual design,</a>
+        <a href="w-websites.php">websites</a>
+    </p>
+    <p><strong>2025-MAR-29</strong> : Added images : <a
+    href="inbox.php">inbox</a></p>
     <p><strong>2024-SEP-01</strong> : Updated nav design; added aspect ratios</p>
     <p><strong>2024-JUN-29</strong> : New page: <a href="all.php">all</a></p>
     <p><strong>2024-MAY-19</strong> : Added images :

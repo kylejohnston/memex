@@ -32,15 +32,17 @@
           </ul>
         </li>
         <li><span class="button">et cetera</span>
-          <li><a href="architecture-space.php">architecture &times; space</a></li>
-          <li><a href="art-illustration.php">art &times; illustration</a></li>
-          <li><a href="color.php">color</a></li>
-          <li><a href="copywriting.php">copywriting</a></li>
-          <li><a href="ephemera.php">ephemera</a></li>
-          <li><a href="goods.php">goods</a></li>
-          <li><a href="photography.php">photography</a></li>
-          <li><a href="strategy.php">strategy</a></li>
-          <li><a href="quotes.php">quotes</a></li>
+          <ul>
+            <li><a href="architecture-space.php">architecture &times; space</a></li>
+            <li><a href="art-illustration.php">art &times; illustration</a></li>
+            <li><a href="color.php">color</a></li>
+            <li><a href="copywriting.php">copywriting</a></li>
+            <li><a href="ephemera.php">ephemera</a></li>
+            <li><a href="goods.php">goods</a></li>
+            <li><a href="photography.php">photography</a></li>
+            <li><a href="strategy.php">strategy</a></li>
+            <li><a href="quotes.php">quotes</a></li>
+          </ul>
         </li>
         <li>
           <ul>

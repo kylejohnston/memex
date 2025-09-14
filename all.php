@@ -73,7 +73,7 @@ shuffle($all_images); // Shuffle all images together
 <?php include('includes/header-nav.php'); ?>
 </header>
 <div class="content">
-  <h1><span>All* (<?php echo $total_count; ?>)</span></h1>
+  <h1><span>All (<?php echo $total_count; ?>)</span></h1>
   <article>
 
   <?php
@@ -81,7 +81,7 @@ shuffle($all_images); // Shuffle all images together
   // Display the shuffled images
   foreach ($all_images as $image) {
     echo '
-    <div class="item">
+    <div class="item" style="aspect-ratio: 1 / 1.25;">
       <a href="#',$image['fullpath'],'">
         <img class="lazyload" src="img/loader-x.svg" data-src="', $image['filepath'],'" alt="', htmlspecialchars(pathinfo($image['filepath'], PATHINFO_BASENAME)), '" width="auto">
       </a>

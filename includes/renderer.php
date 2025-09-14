@@ -4,7 +4,7 @@ foreach ($dir_contents as $file) {
   $file_type = strtolower(end($explode));
   if ( ($file !== '.') && ($file !== '..') && (in_array( $file_type, $file_display)) ) {
     echo '
-    <div class="item">
+    <div class="item" style="aspect-ratio: 1 / 1.25;">
     <a href="#',$file,'">
     <img class="lazyload" src="img/loader-x.svg" data-src="', $www_root, '/preview/', $file,'" alt="', $file, '" width="auto">
     </a>

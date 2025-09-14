@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/styles.css?2023_07_18_0001">
+<link rel="stylesheet" href="css/styles.css?2024_09_01_0001">
 <script src="js/lazysizes.min.js"></script>
 <!--
 XX     XX  XXXXXX  XX     XX  XXXXXX  XX   XX

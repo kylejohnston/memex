@@ -196,14 +196,6 @@ a:visited {
 		border-radius: 9999px;
 		text-decoration:none
 	}
-	transition: all .3s ease-in-out;
-}
-	a.button { 
-		padding: 3px 6px 1px 6px;
-		margin: -3px -6px -1px -6px;
-		border-radius: 9999px;
-		text-decoration:none
-	}
 	span.button { 
 		padding: 3px 6px 1px 6px;
 		margin: -3px -6px -1px -6px;
@@ -354,15 +346,6 @@ nav {
 	color: var(--fallback);
 	color: var(--link);
 	font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem);
-}
-	.menu a.button {
-		border: 1px solid var(--fallback);
-		border: 1px solid var(--link);
-		border-radius: 9999px;
-		margin: 0;
-		padding: 5px 12px 3px 12px;
-		white-space: nowrap;
-	}
 }
 	.menu span.button { 
 		color: var(--text);

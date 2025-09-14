@@ -47,15 +47,19 @@
               <li><a href="w-websites.php">websites</a></li>
             </ul>
           </li>
-          <li><a href="architecture-space.php">architecture &times; space</a></li>
-          <li><a href="art-illustration.php">art &times; illustration</a></li>
-          <li><a href="color.php">color</a></li>
-          <li><a href="copywriting.php">copywriting</a></li>
-          <li><a href="ephemera.php">ephemera</a></li>
-          <li><a href="goods.php">goods</a></li>
-          <li><a href="photography.php">photography</a></li>
-          <li><a href="strategy.php">strategy</a></li>
-          <li><a href="quotes.php">quotes</a></li>
+          <li><span class="button">et cetera</span><br>
+            <ul>
+              <li><a href="architecture-space.php">architecture &times; space</a></li>
+              <li><a href="art-illustration.php">art &times; illustration</a></li>
+              <li><a href="color.php">color</a></li>
+              <li><a href="copywriting.php">copywriting</a></li>
+              <li><a href="ephemera.php">ephemera</a></li>
+              <li><a href="goods.php">goods</a></li>
+              <li><a href="photography.php">photography</a></li>
+              <li><a href="strategy.php">strategy</a></li>
+              <li><a href="quotes.php">quotes</a></li>
+            </ul>
+          </li>
           <li>
             <ul>
               <li><a class="button" href="all.php">∹ all</a></li>
@@ -64,7 +68,8 @@
           </li>
         </ul>
       </div>
-      <p>&horbar;&horbar;&horbar;&horbar;<br><a href="changelog.php">Changelog</a> : Last update 2024-SEP-01</p>
+      <p>&horbar;&horbar;&horbar;&horbar;<br><a
+      href="changelog.php">Changelog</a> : Last update 2025-AUG-16</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

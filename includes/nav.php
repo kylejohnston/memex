@@ -9,10 +9,6 @@
     <div href="/" class="overlay " id="menu" >
       <h1 style="margin: 0.5em 0 1em 0;">explore</h1>
       <ul class="column order--1">
-        <li><a href="architecture-space.php">architecture &times; space</a></li>
-        <li><a href="art-illustration.php">art &times; illustration</a></li>
-        <li><a href="color.php">color</a></li>
-        <li><a href="copywriting.php">copywriting</a></li>
         <li><a class="button" href="design.php">design index</a>
           <ul>
             <li><a href="d-apps.php">apps</a></li>
@@ -26,11 +22,6 @@
             <li><a href="d-visual-design.php">visual design</a></li>
           </ul>
         </li>
-        <li><a href="ephemera.php">ephemera</a></li>
-        <li><a href="goods.php">goods</a></li>
-        <li><a href="photography.php">photography</a></li>
-        <li><a href="strategy.php">strategy</a></li>
-        <li><a href="quotes.php">quotes</a></li>
         <li><a class="button" href="websites.php">websites index</a>
           <ul>
             <li><a href="w-elements.php">elements</a></li>
@@ -39,6 +30,17 @@
             <li><a href="w-ux-wireframes.php">ux</a></li>
             <li><a href="w-websites.php">websites</a></li>
           </ul>
+        </li>
+        <li><span class="button">et cetera</span>
+          <li><a href="architecture-space.php">architecture &times; space</a></li>
+          <li><a href="art-illustration.php">art &times; illustration</a></li>
+          <li><a href="color.php">color</a></li>
+          <li><a href="copywriting.php">copywriting</a></li>
+          <li><a href="ephemera.php">ephemera</a></li>
+          <li><a href="goods.php">goods</a></li>
+          <li><a href="photography.php">photography</a></li>
+          <li><a href="strategy.php">strategy</a></li>
+          <li><a href="quotes.php">quotes</a></li>
         </li>
         <li>
           <ul>

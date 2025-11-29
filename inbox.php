@@ -18,7 +18,7 @@
     <?php include('includes/header-nav.php'); ?>
   </header>
   <div class="content">
-    <h1><span>⁖ inbox (<?php echo $total_count; ?>)</span></h1>
+    <h1><span>inbox (<?php echo $total_count; ?>)</span></h1>
     <article>
       <?php
         include('includes/renderer.php');

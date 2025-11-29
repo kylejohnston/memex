@@ -3,3 +3,6 @@ img/
 img.bak/
 test.php
 _*
+
+.claude/
+docs/

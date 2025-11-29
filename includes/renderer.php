@@ -1,4 +1,7 @@
 <?php
+    if (!isset($dir_contents) || !is_array($dir_contents)) {
+        $dir_contents = [];
+    }
 foreach ($dir_contents as $file) {
   $explode = explode('.', $file);
   $file_type = strtolower(end($explode));

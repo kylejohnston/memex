@@ -1,4 +1,7 @@
 <?php
+    if (!isset($dir_contents) || !is_array($dir_contents)) {
+        $dir_contents = [];
+    }
   $file_display = array('jpg', 'jpeg', 'png', 'gif');
 
   if ( file_exists( $dir ) == false ) {

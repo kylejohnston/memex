@@ -44,11 +44,11 @@
             <li><a href="quotes.php">quotes</a></li>
           </ul>
         </li>
-        <li>
+        <li style="padding-top:.35rem;">
           <ul>
-            <li><a class="button" href="/">⁕ home</a></li>
-            <li><a class="button" href="all.php">∹ all</a></li>
-            <li><a class="button" href="inbox.php">⁖ inbox</a></li>
+            <li><a class="button" href="inbox.php">↧ inbox</a></li>
+            <li><a class="button" href="random.php">⁙ random</a></li>
+            <li><a class="button" href="all.php">● all</a></li>
           </ul>
         </li>
         <li class="small">

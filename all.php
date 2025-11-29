@@ -1,62 +1,62 @@
 <?php
+/**
+ * All Images Index
+ * Displays all images from across all fullsize directories
+ */
 
-$total_count = 0; // Initialize a counter
+// Configuration
+define('IMG_EXTENSIONS', ['webp', 'jpg', 'jpeg', 'png', 'gif']);
 
-$directories = array(
-  'img/architecture-space/preview',
-  'img/art-illustration/preview',
-  'img/color/preview',
-  'img/copywriting/preview',
-  'img/design/apps/preview',
-  'img/design/brand-logos/preview',
-  'img/design/business-cards/preview',
-  'img/design/data-visualization/preview',
-  'img/design/patterns/preview',
-  'img/design/political/preview',
-  'img/design/process/preview',
-  'img/design/typography/preview',
-  'img/design/visual-design/preview',
-  'img/goods/preview',
-  'img/inbox/preview',
-  'img/photography/preview',
-  'img/quotes/preview',
-  'img/strategy/preview',
-  'img/websites/agency-portfolio/preview',
-  'img/websites/elements/preview',
-  'img/websites/product/preview',
-  'img/websites/ux-wireframes/preview',
-  'img/websites/websites/preview'
-);
-$file_display = array('jpg', 'jpeg', 'png', 'gif', 'webp');
+/**
+ * Find all images in fullsize directories (at any depth)
+ */
+function findAllImages() {
+    $images = [];
 
-$all_images = array(); // Array to store images from all directories
+    // Create recursive iterator for img directory
+    $iterator = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator('img', RecursiveDirectoryIterator::SKIP_DOTS),
+        RecursiveIteratorIterator::SELF_FIRST
+    );
 
-foreach ($directories as $dir) { 
-  if (file_exists($dir) == false) {
-    echo 'Directory \'', $dir, '\' not found!';
-  } else {
-    $www_root = str_replace('/preview', '', $dir); 
-    
-    // Count the files
-    $dir_contents = scandir($dir);
-    $file_count = count($dir_contents) - 3;  
-    $total_count += $file_count; // Add to the total
-    
-    foreach ($dir_contents as $file) {
-      $explode = explode('.', $file);
-      $file_type = strtolower(end($explode));
-      
-      if (($file !== '.') && ($file !== '..') && (in_array( $file_type, $file_display))) {
-        $all_images[] = array( 
-          'filepath' => $www_root . '/preview/' . $file,
-          'fullpath' => $www_root . '/fullsize/' . $file
-        ); 
-      }
+    foreach ($iterator as $file) {
+        if (!$file->isFile()) continue;
+
+        $filepath = $file->getPathname();
+
+        // Only include files in fullsize directories
+        if (strpos($filepath, '/fullsize/') === false) continue;
+
+        $extension = strtolower($file->getExtension());
+        if (in_array($extension, IMG_EXTENSIONS)) {
+            $images[] = $filepath;
+        }
     }
-  }
+
+    return $images;
 }
 
-shuffle($all_images); // Shuffle all images together
+/**
+ * Convert fullsize path to preview path
+ */
+function getPreviewPath($fullsizePath) {
+    return str_replace('/fullsize/', '/preview/', $fullsizePath);
+}
+
+// Main execution
+$allImages = findAllImages();
+shuffle($allImages); // Shuffle all images together
+
+// Prepare images for display (convert to array format expected by template)
+$all_images = [];
+foreach ($allImages as $fullsizePath) {
+    $all_images[] = [
+        'filepath' => getPreviewPath($fullsizePath),
+        'fullpath' => $fullsizePath
+    ];
+}
+
+$total_count = count($all_images);
 ?>
 <!DOCTYPE html>
 <html lang="en">

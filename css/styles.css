@@ -189,17 +189,19 @@ a:visited {
 	color:var(--fallback);
 	color:var(--link);
 	transition: all .3s ease-in-out;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.25rem;
 }
 	a.button { 
 		padding: 3px 6px 1px 6px;
 		margin: -3px -6px -1px -6px;
-		border-radius: 9999px;
+		border-radius: 4px;
 		text-decoration:none
 	}
 	span.button { 
 		padding: 3px 6px 1px 6px;
 		margin: -3px -6px -1px -6px;
-		border-radius: 9999px;
+		border-radius: 4px;
 		text-decoration:none
 	}
 a:hover,
@@ -237,7 +239,7 @@ h1 a:active {
 		width: 36px;
 		height: 3px;
 		background: var(--text);
-		border-radius: 9999px;
+		border-radius: 4px;
 		display: inline-block;
 	}
 
@@ -349,19 +351,19 @@ nav {
 }
 	.menu span.button { 
 		color: var(--text);
-		border: 1px solid var(--text);
+		border: 2px solid var(--text);
 		font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem);
-		border-radius: 9999px;
+		border-radius: 4px;
 		margin: 0;
-		padding: 5px 12px 3px 12px;
+		padding: 5px 10px 3px 10px;
 		white-space: nowrap;
 	}
 	.menu a.button {
-		border: 1px solid var(--fallback);
-		border: 1px solid var(--link);
-		border-radius: 9999px;
+		border: 2px solid var(--fallback);
+		border: 2px solid var(--link);
+		border-radius: 4px;
 		margin: 0;
-		padding: 5px 12px 3px 12px;
+		padding: 5px 10px 3px 10px;
 		white-space: nowrap;
 	}
 	article .menu { margin: 1em 0; }
@@ -497,7 +499,7 @@ img:not([src]) {
 	z-index:999;
 }
 .lightbox img {
-	border-radius: 6px;
+	border-radius: 4px;
 	margin-top:32px;
 	margin-bottom:32px;
 	max-width:80%;

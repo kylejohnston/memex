@@ -62,14 +62,14 @@
           </li>
           <li>
             <ul>
-              <li><a class="button" href="all.php">∹ all</a></li>
-              <li><a class="button" href="inbox.php">⁖ inbox</a></li>
+              <li><a class="button" href="inbox.php">↧ inbox</a></li>
+              <li><a class="button" href="random.php">⁙ random</a></li>
+              <li><a class="button" href="all.php">● all</a></li>
             </ul>
           </li>
         </ul>
       </div>
-      <p>&horbar;&horbar;&horbar;&horbar;<br><a
-      href="changelog.php">Changelog</a> : Last update 2025-AUG-16</p>
+      <p><br><a href="changelog.php">Changelog</a> : Last update 2025-NOV-29</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>

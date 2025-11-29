@@ -75,7 +75,6 @@ $allImages = findAllImages();
 $selectedImages = selectRandomImages($allImages, TARGET_COUNT);
 $totalFound = count($allImages);
 $displayCount = count($selectedImages);
-$timestamp = date('Y-m-d H:i:s');
 
 ?><!DOCTYPE html>
 <html lang="en">
@@ -138,7 +137,7 @@ $timestamp = date('Y-m-d H:i:s');
                     ↓
                 </a>
             </div>
-            <a href="#_" class="lightbox" id="<?php echo $image; ?>">
+            <a href="#_" class="lightbox" id="<?php echo htmlspecialchars($image); ?>">
                 <img src="<?php echo htmlspecialchars($image); ?>">
             </a>
         <?php endforeach; ?>

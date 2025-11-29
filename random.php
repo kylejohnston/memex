@@ -115,7 +115,7 @@ $timestamp = date('Y-m-d H:i:s');
                              width="auto">
                     </a>
                 </div>
-                <a href="#_" class="lightbox" id="<?php echo $image; ?>">
+                <a href="#_" class="lightbox" id="<?php echo htmlspecialchars($image); ?>">
                     <img src="<?php echo htmlspecialchars($image); ?>">
                 </a>
             <?php endforeach; ?>

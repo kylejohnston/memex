@@ -9,8 +9,9 @@
     <div href="/" class="overlay " id="menu" >
       <h1 style="margin: 0.5em 0 1em 0;">explore</h1>
       <ul class="column order--1">
-        <li><a class="button" href="design.php">design index</a>
+        <li><span class="button">design</span> 
           <ul>
+            <li><a href="design.php">0.index</a></li>
             <li><a href="d-apps.php">apps</a></li>
             <li><a href="d-brand-logos.php">brand &times; logos</a></li>
             <li><a href="d-business-cards.php">business cards</a></li>
@@ -22,8 +23,9 @@
             <li><a href="d-visual-design.php">visual design</a></li>
           </ul>
         </li>
-        <li><a class="button" href="websites.php">websites index</a>
+        <li><span class="button">websites</span>
           <ul>
+            <li><a href="websites.php">0.index</a></li>
             <li><a href="w-elements.php">elements</a></li>
             <li><a href="w-agency-portfolio.php">portfolios</a></li>
             <li><a href="w-product.php">product</a></li>
@@ -46,14 +48,14 @@
         </li>
         <li style="padding-top:.35rem;">
           <ul>
-            <li><a class="button" href="inbox.php">↧ inbox</a></li>
-            <li><a class="button" href="random.php">⁙ random</a></li>
+            <li><a class="button" href="inbox.php">⊟ inbox</a></li>
+            <li><a class="button" href="random.php">❇ random</a></li>
             <li><a class="button" href="all.php">● all</a></li>
           </ul>
         </li>
         <li class="small">
           <ul>
-            <li>A <a href="https://www.flow14.com">flow14</a> project // <a href="colophon.php">Colophon</a> // <a href="changelog.php">Changelog</a></li>
+            <li>A <a href="https://www.flow14.com">flow14</a> project // <a href="colophon.php">Colophon</a> // <a href="changelog.php">Changelog</a> // <a href="/">Home</a></li>
           </ul>
         </li>
       </ul>

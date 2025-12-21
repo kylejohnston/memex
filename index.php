@@ -25,8 +25,9 @@
       <h2 class="spacer--0">Explore:</h2>
       <div class="menu">
         <ul>
-          <li><a class="button" href="design.php">design index</a><br>
+          <li><span class="button">design</span><br>
             <ul>
+              <li><a href="design.php">0.index</a></li>
               <li><a href="d-apps.php">apps</a></li>
               <li><a href="d-brand-logos.php">brand &times; logos</a></li>
               <li><a href="d-business-cards.php">business cards</a></li>
@@ -38,8 +39,9 @@
               <li><a href="d-visual-design.php">visual design</a></li>
             </ul>
           </li>
-          <li><a class="button" href="websites.php">websites index</a><br>
+          <li><span class="button">websites</span><br>
             <ul>
+              <li><a href="websites.php">0.index</a></li>
               <li><a href="w-elements.php">elements</a></li>
               <li><a href="w-agency-portfolio.php">portfolios</a></li>
               <li><a href="w-product.php">product</a></li>
@@ -62,8 +64,8 @@
           </li>
           <li>
             <ul>
-              <li><a class="button" href="inbox.php">↧ inbox</a></li>
-              <li><a class="button" href="random.php">⁙ random</a></li>
+              <li><a class="button" href="inbox.php">⊟ inbox</a></li>
+              <li><a class="button" href="random.php">❇ random</a></li>
               <li><a class="button" href="all.php">● all</a></li>
             </ul>
           </li>

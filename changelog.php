@@ -17,6 +17,9 @@
   
   <article class="col-2">
     <div class="column content prose">
+    <p><strong>2026-02-01</strong> : New page: <a href="random.php">random</a>; Added images : 
+        <a href="inbox.php">inbox</a>
+    </p>
     <p><strong>2025-NOV-29</strong> : New page: <a href="random.php">random</a>; Added images : 
         <a href="inbox.php">inbox</a>
     </p>

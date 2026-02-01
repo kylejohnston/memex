@@ -71,7 +71,7 @@
           </li>
         </ul>
       </div>
-      <p><br><a href="changelog.php">Changelog</a> : Last update 2025-NOV-29</p>
+      <p><br><a href="changelog.php">Changelog</a> : Last update 2026-02-01</p>
     </div>
   </article>
   <?php include('includes/foot.php'); ?>
